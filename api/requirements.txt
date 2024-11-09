@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+python-dotenv
+openai==0.28
+python-docx
+pdfminer.six
+beautifulsoup4
+easyocr
+pydantic
+python-multipart
